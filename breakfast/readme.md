@@ -14,6 +14,7 @@ Chilaquiles is a bold, comforting Mexican breakfast that transforms crispy torti
 | Servings | 4 |
 | Difficulty | Easy |
 | Tags | vegetarian, traditional, quick |
+| spice level | 🌶️🌶️ |
 
 ## Ingredients:
 

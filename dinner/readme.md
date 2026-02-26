@@ -35,6 +35,12 @@ Chicken tacos are a versatile and crowd-friendly dinner dish popular in Mexican 
 5. Top with lettuce, tomatoes, cheese, and sour cream.
 6. Serve immediately.
 
+### Drink Suggestion:
+
+### Pacifico Beer
+
+Pacifico is a crisp Mexican Lager that goes amazing with any Mexican food, either tacos, seafood, or just some nachos. 
+
 ### Notes:
 
 You can substitute chicken with ground beef, tofu, or roasted vegetables. Add salsa or hot sauce for extra flavor.

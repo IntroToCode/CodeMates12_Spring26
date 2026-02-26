@@ -35,6 +35,12 @@ Chicken tacos are a versatile and crowd-friendly dinner dish popular in Mexican 
 5. Top with lettuce, tomatoes, cheese, and sour cream.
 6. Serve immediately.
 
+## Beverage Pairing
+
+### Mezcal
+
+A traditional Mexican drink made for special occations.
+
 ### Notes:
 
 You can substitute chicken with ground beef, tofu, or roasted vegetables. Add salsa or hot sauce for extra flavor.

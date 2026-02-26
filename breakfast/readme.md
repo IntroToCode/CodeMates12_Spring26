@@ -50,3 +50,6 @@ The name “chilaquiles” comes from the Nahuatl word *chīlāquilitl*, meaning
 ## Author
 
 Juan Carlos Rojas
+Aya Nagai
+Michelle Le
+Shawn Trabiano

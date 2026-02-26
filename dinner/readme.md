@@ -14,6 +14,7 @@ Chicken tacos are a versatile and crowd-friendly dinner dish popular in Mexican 
 | Servings | 4 |
 | Difficulty | Easy |
 | Tags | dinner, group-friendly, quick, savory |
+| spice level | 🌶️🌶️ |
 
 ### Ingredients:
 

@@ -38,9 +38,11 @@ Chicken tacos are a versatile and crowd-friendly dinner dish popular in Mexican 
 
 ### Drink Suggestion:
 
-### Pacifico Beer
+### Pacifico Beer + Mezcal
 
 Pacifico is a crisp Mexican Lager that goes amazing with any Mexican food, either tacos, seafood, or just some nachos. 
+
+Mezcal is a traditional Mexican distilled spirit made from the heart of the agave plant. Known for its distinctive smoky flavor, mezcal is produced by roasting agave in underground pits before fermentation and distillation, giving it a complex profile that can range from earthy and vegetal to fruity and floral.
 
 ### Notes:
 

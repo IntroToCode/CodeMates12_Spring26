@@ -1,4 +1,4 @@
-# Chilaquiles
+# Chilaquiles (Mexican Breakfast)
 
 ## Description
 

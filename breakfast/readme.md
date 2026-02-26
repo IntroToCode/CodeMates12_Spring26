@@ -1,36 +1,51 @@
-# Replace with recipe name
+# Chilaquiles
 
 ## Description
 
-<!-- 1-2 sentences about the dish. Where does it come from? What makes it special? -->
+Chilaquiles is a traditional Mexican breakfast dish made from lightly fried corn tortilla chips simmered in salsa and topped with cheese, crema, onions, and often eggs. Originating in Mexico, it reflects the historic importance of maize in Mexican cuisine and was traditionally a way to reuse leftover tortillas.
 
 ## Stats
 
 | Field | Info |
 |-------|------|
-| Prep Time | e.g. 15 minutes |
-| Cook Time | e.g. 30 minutes |
-| Total Time | e.g. 45 minutes |
-| Servings | e.g. 4 |
-| Difficulty | Easy / Medium / Hard |
-| Tags | e.g. vegetarian, quick, make-ahead, dessert |
+| Prep Time | 15 minutes |
+| Cook Time | 15 minutes |
+| Total Time | 30 minutes |
+| Servings | 4 |
+| Difficulty | Easy |
+| Tags | vegetarian, traditional, quick |
 
-<!-- Note the fields in the markdown table -->
+## Ingredients:
 
-### Ingredients:
-- [ ] add ingredient here
-      
-<!-- List every ingredient -->
+- 8 corn tortillas (cut into triangles)
+- 1 cup red or green salsa
+- 2 eggs (optional)
+- ½ cup crumbled queso fresco
+- ¼ cup Mexican crema or sour cream
+- ¼ cup thinly sliced white onion
+- Fresh cilantro (optional)
+- Oil for frying
+- Salt to taste
 
-### Steps for preparation:
+## Steps for preparation:
 
-1. Step one.
-2. Step two.
-3. Step three.
-<!-- Each step should be a complete action. Assume the reader has never made this before. -->
+1. Heat oil in a skillet over medium heat.
+2. Fry tortilla triangles until lightly crispy. Remove and drain excess oil.
+3. In the same skillet, warm the salsa.
+4. Add tortilla chips into the salsa and stir gently until coated and slightly softened.
+5. Plate immediately and top with cheese, crema, onion, and cilantro.
+6. Optionally, serve with a fried egg on top.
 
-### Notes:
+## Historical Background
 
-<!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
+The name “chilaquiles” comes from the Nahuatl word *chīlāquilitl*, meaning “chilis and greens.” The dish dates back to pre-Hispanic Mexico, where maize was central to daily life. It evolved as a practical method of repurposing leftover tortillas, reflecting traditional Mexican culinary sustainability.
 
-### Author(s):
+## Sources
+
+- My mom, the best chilaquiles chef ever: María Teresa Encinas
+- Pilcher, Jeffrey M. *Planet Taco: A Global History of Mexican Food.* Oxford University Press, 2012.
+- Long-Solís, Janet & Vargas, Luis Alberto. *Food Culture in Mexico.* Greenwood Press, 2005.
+
+## Author
+
+Juan Carlos Rojas

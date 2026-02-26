@@ -1,7 +1,5 @@
 # Recipe Index
 
-# Recipe Index
-
 - Breakfast: [Chilaquiles](./breakfast/readme.md)
 - Lunch: [Duck Ramen](./lunch/readme.md)
 - Dinner: [Chicken Tacos>](./dinner/readme.md)

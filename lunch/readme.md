@@ -11,7 +11,7 @@ Duck ramen is a rich, restaurant-style bowl that pairs a savory soy-based (shoyu
 | Prep Time  | 25 minutes                                                    |
 | Cook Time  | 1 hour 30 minutes                                             |
 | Total Time | 1 hour 55 minutes                                             |
-| Servings   | 4                                                             |
+| Servings   | 8                                                             |
 | Difficulty | Medium                                                        |
 | Field | Info |
 |-------|------|

@@ -1,36 +1,44 @@
-# Replace with recipe name
+# Chicken Tacos
 
 ## Description
 
-<!-- 1-2 sentences about the dish. Where does it come from? What makes it special? -->
+Chicken tacos are a versatile and crowd-friendly dinner dish popular in Mexican cuisine. They are flavorful, customizable, and perfect for sharing.
 
 ## Stats
 
 | Field | Info |
 |-------|------|
-| Prep Time | e.g. 15 minutes |
-| Cook Time | e.g. 30 minutes |
-| Total Time | e.g. 45 minutes |
-| Servings | e.g. 4 |
-| Difficulty | Easy / Medium / Hard |
-| Tags | e.g. vegetarian, quick, make-ahead, dessert |
-
-<!-- Note the fields in the markdown table -->
+| Prep Time | 15 minutes |
+| Cook Time | 20 minutes |
+| Total Time | 35 minutes |
+| Servings | 4 |
+| Difficulty | Easy |
+| Tags | dinner, group-friendly, quick, savory |
 
 ### Ingredients:
-- [ ] add ingredient here
-      
-<!-- List every ingredient -->
+
+- [ ] 2 cups cooked shredded chicken
+- [ ] 8 small tortillas
+- [ ] 1 cup shredded lettuce
+- [ ] 1 cup diced tomatoes
+- [ ] 1 cup shredded cheese
+- [ ] 1/2 cup sour cream
+- [ ] 1 tbsp taco seasoning
+- [ ] 1 tbsp olive oil
 
 ### Steps for preparation:
 
-1. Step one.
-2. Step two.
-3. Step three.
-<!-- Each step should be a complete action. Assume the reader has never made this before. -->
+1. Heat olive oil in a skillet over medium heat.
+2. Add shredded chicken and taco seasoning, stirring until heated through.
+3. Warm tortillas in a separate pan or microwave.
+4. Fill each tortilla with chicken.
+5. Top with lettuce, tomatoes, cheese, and sour cream.
+6. Serve immediately.
 
 ### Notes:
 
-<!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
+You can substitute chicken with ground beef, tofu, or roasted vegetables. Add salsa or hot sauce for extra flavor.
 
 ### Author(s):
+
+Aya Nagai
